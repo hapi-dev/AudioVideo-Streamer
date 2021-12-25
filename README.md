@@ -26,3 +26,7 @@ In Developer options, scroll to bottom and enable `Disable Permission Monitoring
 No sound: 
 > Solution:
 You need to run the program without the audio input on the phone turned on. You also need to run the program with an unlocked phone.
+
+Crashing: 
+> Solution:
+Install all Prerequisites, if still create an issue.
