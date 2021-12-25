@@ -6,7 +6,7 @@ This allows you to stream audio and video from android 10+ phone to windows 7/8/
 
 What things you need to install the software and how to install them
 
-`You need to have VLC and some default .NET runtimes. If you're using windows N edition you have to install this: `https://support.microsoft.com/en-us/topic/media-feature-pack-list-for-windows-n-editions-c1c6fffa-d052-8338-7a79-a4bb980a700a
+`You need to have VLC and some default .NET runtimes. If you're using windows N edition you have to install this:`https://support.microsoft.com/en-us/topic/media-feature-pack-list-for-windows-n-editions-c1c6fffa-d052-8338-7a79-a4bb980a700a
 
 ### Installing
 
