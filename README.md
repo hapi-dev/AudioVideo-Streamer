@@ -39,5 +39,7 @@ could not read ok from ADB Server
 ```
 > Solution:
 You have to check if you have debugging enabled, if not then install adb drivers for your phone.
+
 https://www.xda-developers.com/install-adb-windows-macos-linux/
+
 https://www.makeuseof.com/tag/android-wont-connect-windows-adb-fix-it-three-steps/
